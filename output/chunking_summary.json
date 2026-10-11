@@ -1,0 +1,56 @@
+{
+  "input_filename": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+  "total_pages_processed": 9,
+  "total_chunks_generated": 29,
+  "representative_chunks_selected": 10,
+  "parameters": {
+    "requested_target_tokens": 400,
+    "effective_target_tokens": 400,
+    "overlap_tokens": 60,
+    "max_tokens": 550
+  },
+  "token_counting_method": "tiktoken_cl100k_base",
+  "section_coverage": [
+    "1 Company Overview",
+    "1 Company Overview > Key Highlights",
+    "1 Company Overview > Reporting Boundary",
+    "2 Financial Performance > 2.1 Consolidated Results",
+    "2 Financial Performance > 2.2 Segment Performance",
+    "3 Risk Management > 3.1 Principal Risk Categories",
+    "3 Risk Management > 3.2 AI and Model Risk",
+    "4 Corporate Governance > 4.1 Board Structure",
+    "4 Corporate Governance > 4.2 Board Committees",
+    "4 Corporate Governance > Board Meeting Disclosure",
+    "5 Sustainability and ESG > 5.1 Environmental Performance",
+    "5 Sustainability and ESG > 5.2 Social and Responsible Finance",
+    "5 Sustainability and ESG > 5.3 ESG Data Notes",
+    "6 Regulatory and Compliance Disclosures",
+    "6 Regulatory and Compliance Disclosures > Compliance Metrics",
+    "6 Regulatory and Compliance Disclosures > Customer Data Protection Clause",
+    "7 Management Outlook",
+    "7 Management Outlook > Forward-Looking Statement",
+    "7 Management Outlook > Selected FY2026-27 Targets",
+    "Appendix A - Document Index",
+    "Appendix B - Chunking Test Notes",
+    "Document",
+    "End of Document"
+  ],
+  "content_type_coverage": {
+    "paragraph": 16,
+    "bullet_list": 2,
+    "table": 8,
+    "policy_clause": 3
+  },
+  "overlap": {
+    "configured_preferred_tokens": 60,
+    "chunks_with_actual_overlap": 0,
+    "actual_overlap_tokens_total": 0,
+    "note": "No overlap was inserted when structural boundaries produced complete chunks below the target."
+  },
+  "extraction_warnings": [],
+  "validation": {
+    "records_valid": true,
+    "jsonl_records_reparsed": 29,
+    "errors": []
+  }
+}

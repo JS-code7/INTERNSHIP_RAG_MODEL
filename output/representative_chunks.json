@@ -1,0 +1,197 @@
+[
+  {
+    "chunk_id": "doc_001_chunk_0005",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 3,
+    "page_numbers": [
+      3
+    ],
+    "section": "2 Financial Performance > 2.1 Consolidated Results",
+    "section_path": [
+      "2 Financial Performance",
+      "2.1 Consolidated Results"
+    ],
+    "chunk_index": 5,
+    "content_type": "paragraph",
+    "text": "FY2025–26 was characterized by sustained revenue growth, improving operating leverage, and increased investment in technology. Revenue reached INR 1,842.6 crore compared with INR 1,478.8 crore in the previous financial year. Profit after tax increased to INR 186.4 crore from INR 131.7 crore. Management attributes the improvement to higher enterprise transaction volumes, improved pricing discipline, and lower customer-acquisition costs in mature markets.",
+    "token_count": 95,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0009",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 4,
+    "page_numbers": [
+      4
+    ],
+    "section": "3 Risk Management > 3.1 Principal Risk Categories",
+    "section_path": [
+      "3 Risk Management",
+      "3.1 Principal Risk Categories"
+    ],
+    "chunk_index": 9,
+    "content_type": "paragraph",
+    "text": "ADFL's risk management framework is designed to identify, assess, monitor, mitigate, and report risks that may materially affect financial performance, regulatory compliance, customer outcomes, information security, or business continuity. The Board Risk Committee receives quarterly reporting from management and may request additional reviews when risk indicators exceed approved thresholds.",
+    "token_count": 61,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0013",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 5,
+    "page_numbers": [
+      5
+    ],
+    "section": "4 Corporate Governance > 4.1 Board Structure",
+    "section_path": [
+      "4 Corporate Governance",
+      "4.1 Board Structure"
+    ],
+    "chunk_index": 13,
+    "content_type": "paragraph",
+    "text": "The Board comprises nine directors, including three independent directors and two executive directors. The Board met seven times during FY2025–26. Attendance was reviewed at each meeting and directors received materials sufficiently in advance to support informed deliberation.",
+    "token_count": 46,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0017",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 6,
+    "page_numbers": [
+      6
+    ],
+    "section": "5 Sustainability and ESG > 5.1 Environmental Performance",
+    "section_path": [
+      "5 Sustainability and ESG",
+      "5.1 Environmental Performance"
+    ],
+    "chunk_index": 17,
+    "content_type": "paragraph",
+    "text": "Although ADFL operates primarily through technology and financial infrastructure, the company recognizes that data centers, office facilities, employee travel, and purchased goods contribute to its environmental footprint. During FY2025–26, the company increased the proportion of renewable electricity used across controlled facilities and introduced supplier screening criteria covering environmental management practices.",
+    "token_count": 63,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0021",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 7,
+    "page_numbers": [
+      7
+    ],
+    "section": "6 Regulatory and Compliance Disclosures",
+    "section_path": [
+      "6 Regulatory and Compliance Disclosures"
+    ],
+    "chunk_index": 21,
+    "content_type": "paragraph",
+    "text": "The company maintains a regulatory obligations register covering applicable financial, data-protection, cybersecurity, employment, tax, and corporate requirements. Compliance owners are assigned to material obligations and provide periodic certifications to the Chief Compliance Officer.",
+    "token_count": 42,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0024",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 8,
+    "page_numbers": [
+      8
+    ],
+    "section": "7 Management Outlook",
+    "section_path": [
+      "7 Management Outlook"
+    ],
+    "chunk_index": 24,
+    "content_type": "paragraph",
+    "text": "Management expects the next financial year to focus on disciplined growth, enterprise customer expansion, platform modernization, and continued investment in artificial intelligence. The company expects demand for automated credit analytics, fraud prevention, and financial workflow infrastructure to remain strong, although competitive intensity, regulatory developments, funding costs, cybersecurity threats, and macroeconomic conditions could affect the pace of growth.\n\nThe FY2026–27 operating plan includes investments in cloud infrastructure, model governance, data engineering, security controls, and customer-facing analytics. Management has approved a technology investment envelope of INR 235 crore, of which approximately INR 78 crore is allocated to artificial intelligence and data-platform initiatives.",
+    "token_count": 131,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0027",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 9,
+    "page_numbers": [
+      9
+    ],
+    "section": "Appendix A - Document Index",
+    "section_path": [
+      "Appendix A - Document Index"
+    ],
+    "chunk_index": 27,
+    "content_type": "table",
+    "text": "| Section | Primary Content |\n| --- | --- |\n| 1 | Company Overview and Reporting Boundary |\n| 2 | Financial Performance and Segment Results |\n| 3 | Risk Management and AI Model Risk |\n| 4 | Corporate Governance and Board Disclosures |\n| 5 | Sustainability and ESG Performance |\n| 6 | Regulatory and Compliance Disclosures |\n| 7 | Management Outlook and Forward-Looking Statements |",
+    "token_count": 86,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0001",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 1,
+    "page_numbers": [
+      1
+    ],
+    "section": "Document",
+    "section_path": [
+      "Document"
+    ],
+    "chunk_index": 1,
+    "content_type": "paragraph",
+    "text": "AURELIA DIGITAL FINANCE LTD.\n\nIntegrated Financial & Sustainability Report\n\nFinancial Year 2025–26\n\nFictional Document — AI/ML Intern Screening Dataset\n\nThis document has been created specifically to evaluate document parsing, structure-aware chunking, metadata extraction, and RAG-oriented text segmentation. All company names, figures, individuals, and events are fictional.\n\nRegistered Office: 42 Meridian Avenue, Mumbai, Maharashtra, India\n\nReporting Period: 1 April 2025 to 31 March 2026",
+    "token_count": 106,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0002",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 2,
+    "page_numbers": [
+      2
+    ],
+    "section": "1 Company Overview",
+    "section_path": [
+      "1 Company Overview"
+    ],
+    "chunk_index": 2,
+    "content_type": "paragraph",
+    "text": "Aurelia Digital Finance Ltd. (ADFL) is a fictional diversified financial technology company providing digital payments, embedded finance, credit analytics, and financial infrastructure services to banks, merchants, and small businesses. During FY2025–26, the company expanded its institutional customer base while continuing investments in artificial intelligence, cloud infrastructure, information security, and responsible finance.\n\nThe company operates through three principal business lines: Digital Payments, Enterprise Credit Intelligence, and Financial Infrastructure Services. Its strategy is centered on increasing recurring enterprise revenue, improving transaction-level risk controls, and developing reusable financial data and AI capabilities.",
+    "token_count": 118,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  },
+  {
+    "chunk_id": "doc_001_chunk_0003",
+    "document_id": "aurelia_financial_report_2025_26",
+    "document_name": "Sample_Financial_Report_for_Chunking_Screening.pdf",
+    "page_number": 2,
+    "page_numbers": [
+      2
+    ],
+    "section": "1 Company Overview > Key Highlights",
+    "section_path": [
+      "1 Company Overview",
+      "Key Highlights"
+    ],
+    "chunk_index": 3,
+    "content_type": "bullet_list",
+    "text": "- Revenue increased by 24.6% compared with FY2024–25.\n\n- Enterprise customers increased from 146 to 219.\n\n- Adjusted EBITDA margin improved from 12.4% to 15.8%.\n\n- Technology and product investment increased by 31.2%.\n\n- The company introduced a formal Responsible AI Governance Framework.",
+    "token_count": 71,
+    "token_count_method": "tiktoken_cl100k_base",
+    "overlap_tokens": 0
+  }
+]

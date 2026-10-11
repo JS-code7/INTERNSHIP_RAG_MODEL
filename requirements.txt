@@ -1,0 +1,5 @@
+pypdf>=5.0
+pdfplumber>=0.11
+reportlab>=4.0
+tiktoken>=0.7
+pytest>=8.0
